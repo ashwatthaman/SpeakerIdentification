@@ -9,6 +9,7 @@ cd src の後、python exec.py を実行すると、src/test以下のディレ�
 MeCab==0.996
 
 
+python
 * pandas==0.18.1
 * chainer==4.2.0
 * numpy==1.13.3
